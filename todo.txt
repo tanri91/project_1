@@ -1,6 +1,6 @@
-1- hi
-2- by
-3- how
-4- are 
-5- hello
-6- good
+1
+2
+3
+4
+5
+6
